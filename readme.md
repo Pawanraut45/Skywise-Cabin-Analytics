@@ -47,7 +47,8 @@ Raw Data → Python ETL → PySpark Processing → Analytics → Dashboard
 
 ---
 
-## 📂 Repository Structure
+## 📂 Project Structure
+
 skywise-cabin-analytics/
 │
 ├── data/
