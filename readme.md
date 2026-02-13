@@ -66,5 +66,6 @@ skywise-cabin-analytics/
 ├── notebooks/
 │   └── exploratory_analysis.ipynb
 │
+├── pipeline.py
 ├── requirements.txt
 └── README.md
