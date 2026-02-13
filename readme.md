@@ -49,6 +49,7 @@ Raw Data → Python ETL → PySpark Processing → Analytics → Dashboard
 
 ## 📂 Project Structure
 
+```text
 skywise-cabin-analytics/
 │
 ├── data/
@@ -69,4 +70,9 @@ skywise-cabin-analytics/
 │
 ├── pipeline.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
+```
+
+
+
