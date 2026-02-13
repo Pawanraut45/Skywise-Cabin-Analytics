@@ -92,7 +92,7 @@ Raw Data → Python ETL → PySpark Processing → Analytics → Dashboard
 ---
 ## ✅ Impact
 
-- This project demonstrates how airlines can:
+This project demonstrates how airlines can:
 - Detect reliability issues early
 - Optimize maintenance planning
 - Reduce operational disruptions
